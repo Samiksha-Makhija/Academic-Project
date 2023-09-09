@@ -1,3 +1,4 @@
+[Trend Chart Monitoring System.pdf](https://github.com/Samiksha-Makhija/Academic-Projects/files/12565928/Trend.Chart.Monitoring.System.pdf)
 # Trend Chart Monitoring System 
 
 Trend Chart Monitoring system is the system which analyses data given by user aur through any Sensors (or the in-built sensors in computer / a random value generator used here just to demonstrate the purpose ) and produces corresponding graphs on screen.
