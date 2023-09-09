@@ -1,4 +1,4 @@
-[Trend Chart Monitoring System.pdf](https://github.com/Samiksha-Makhija/Academic-Projects/files/12565928/Trend.Chart.Monitoring.System.pdf)
+
 # Trend Chart Monitoring System 
 
 Trend Chart Monitoring system is the system which analyses data given by user aur through any Sensors (or the in-built sensors in computer / a random value generator used here just to demonstrate the purpose ) and produces corresponding graphs on screen.
@@ -13,4 +13,6 @@ The benifits of qt it is very basic to understand
 And also user can make UI within couple of minutes through qt widgets.
 
 ##### To run the project one must have to install and setup Qt creator on the PC , download all the files and run in the IDE - Qt creator
-- for further understanding you can also refer the document "Trend Chart Monitoring System.pdf"
+
+- for further understanding you can also refer the document below named "Trend Chart Monitoring System.pdf"
+[Trend Chart Monitoring System.pdf](https://github.com/Samiksha-Makhija/Academic-Projects/files/12565928/Trend.Chart.Monitoring.System.pdf)
