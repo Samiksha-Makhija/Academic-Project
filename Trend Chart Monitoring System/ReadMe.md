@@ -6,7 +6,7 @@ The distinguisher from other plotting tools is it can take user defined paramete
 And also when connected to sensor can analyse data without mannual effort and can produce real time graphs which can be extracted to csv files to later use on excel.
 
 It it is based on 
-C , Qt widgets (UI) , Database - sqlite3 & Other tools like - Linux OS , virtual machine and qt creator
+CPP , Qt widgets (UI) , Database - sqlite3 & Other tools like - Linux OS , virtual machine and qt creator
 
 Qt creator ? - qt creator is a integrated development environment (IDE) which is used to develop softwares...
 The benifits of qt it is very basic to understand
