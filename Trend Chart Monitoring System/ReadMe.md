@@ -11,5 +11,5 @@ Qt creator ? - qt creator is a integrated development environment (IDE) which is
 The benifits of qt it is very basic to understand
 And also user can make UI within couple of minutes through qt widgets.
 
-### To run the project one must have to install and setup Qt creator on the PC , download all the files and run in the IDE - Qt creator
+##### To run the project one must have to install and setup Qt creator on the PC , download all the files and run in the IDE - Qt creator
 - for further understanding you can also refer the document "Trend Chart Monitoring System.pdf"
